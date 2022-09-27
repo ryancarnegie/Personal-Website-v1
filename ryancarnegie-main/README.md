@@ -4,3 +4,4 @@ Currently an early stage HTML and CSS project that will gradually expand my proj
 
 This is for an assignment
 
+JavaScript will eventually be the dominant language for all future projects
